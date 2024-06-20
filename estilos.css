@@ -1,8 +1,11 @@
 body{
-    background-color: rgba(255, 255, 255, 0.607);
+    background-color: rgba(182, 29, 29, 0.171);
+}
+#hone{
+    background-color: rgba(0, 255, 255, 0.616);
 }
 h1{
-    color: red;
+    color: rgb(22, 20, 20);
 }
 #h2{
     color:  rgb(0, 0, 0);
@@ -12,6 +15,10 @@ h1{
     font-size: 12pt;
     text-align:center;
     color: rgb(198, 95, 17);
+}
+#nav1{
+    background-color: rgb(33, 167, 201) ;
+    
 }
 #p2{
     color: rgb(98, 17, 238);
@@ -31,27 +38,32 @@ width: 550pt;
     
     width: 300px;
 }
-#hbody{
+#hb2{
     text-align: right;
     size: +1;
+    color: rgb(226, 141, 43);
 }
-#pbody{
+#pbody1{
     text-align: justify;
     font-size:12pt;
     color: rgb(0, 0, 0);
 }
 #imgnevado{
     position: static;
-    width: 450px;
+    width: 1000px;
+    height: 300px;
 }
 #hbody{
     text-align: center;
     text-decoration: underline;
-    color:rgb(100, 59, 59) ;
+    color:rgb(30, 204, 181) ;
     font-size: 30pt;
 }
 #pb2{
-    font-size: medium;
     text-align: center;
-    color: rgb(136, 39, 226);
+    color: rgb(0, 0, 0);
+    font-size: 14pt;
+}
+#main1{
+    background-color: rgb(151, 75, 75);
 }
