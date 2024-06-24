@@ -1,8 +1,8 @@
-body{
-    background-color: rgba(182, 29, 29, 0.171);
+body, #hone,{
+    background-color: rgba(249, 153, 8, 0.899);
 }
 #hone{
-    background-color: rgba(0, 255, 255, 0.616);
+    background-color: rgba(35, 210, 210, 0.988);
 }
 h1{
     color: rgb(22, 20, 20);
@@ -76,4 +76,12 @@ text-decoration: underline;
 #carroimg{
     border-image: auto;
     width: 800pt;    
+}
+#pSpoty{
+    font-size: 15pt;
+    
+}
+#Cancion{
+align-items: self-start; 
+max-width: 500px;
 }
