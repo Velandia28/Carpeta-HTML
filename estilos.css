@@ -1,7 +1,7 @@
 body, #hone,{
     background-color: rgba(249, 153, 8, 0.899);
 }
-#hone{
+#hone{  
     background-color: rgba(35, 210, 210, 0.988);
 }
 h1{
@@ -18,7 +18,7 @@ h1{
     color: rgb(0, 0, 0);
 }
 #nav1{
-    background-color: rgb(33, 167, 201) ;
+    background-color: rgb(132, 204, 222) ;
     
 }
 #p2{
@@ -37,7 +37,7 @@ width: 550pt;
 #img1{
     position:static;
     
-    width: 300px;
+    width: 450px;
 }
 #hb2{
     text-align: center;
@@ -49,15 +49,15 @@ width: 550pt;
     font-size:12pt;
     color: rgb(0, 0, 0);
 }
-#imgnevado{
+#VDnevado{
     position: static;
     width: 1000px;
-    height: 300px;
+    height: 450px;
 }
-#hbody{
+#h2body{
     text-align: center;
     text-decoration: underline;
-    color:rgb(30, 204, 181) ;
+    color:rgb(91, 207, 107) ;
     font-size: 30pt;
 }
 #pb2{
